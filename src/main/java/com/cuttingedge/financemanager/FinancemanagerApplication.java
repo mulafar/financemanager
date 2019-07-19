@@ -15,6 +15,6 @@ public class FinancemanagerApplication {
 
 	@RequestMapping("/hello")
 	public String hello(){
-		return "hello world";
+		return "Hello World";
 	}
 }
